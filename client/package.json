@@ -1,7 +1,8 @@
 {
-    "name": "fuse-react-app",
+    "name": "brainiac-react-app",
     "version": "2.0.0",
     "private": true,
+    "proxy": "http://localhost:3001",
     "dependencies": {
         "babel-polyfill": "7.0.0-beta.3",
         "react": "16.7.0",
@@ -58,7 +59,9 @@
         "material-ui-popup-state": "1.0.2",
         "@date-io/date-fns": "1.0.1",
         "date-fns": "2.0.0-alpha.26",
-        "downshift": "3.1.12"
+        "downshift": "3.1.12",
+        "react-responsive": "^6.0.1",
+        "react-spinners": "^0.4.7"
     },
     "devDependencies": {
         "@babel/core": "7.2.2",
