@@ -1,0 +1,659 @@
+{
+  "HP-NL-1": {
+    "brand": "HiPP Dutch",
+    "stage": "1",
+    "package": 6,
+    "individual": 1,
+    "sku": "HP-NL-1",
+    "productID": 173
+  },
+  "HP-NL-2": {
+    "brand": "HiPP Dutch",
+    "stage": "2",
+    "package": 6,
+    "individual": 1,
+    "sku": "HP-NL-2",
+    "productID": 213
+  },
+  "HP-NL-3": {
+    "brand": "HiPP Dutch",
+    "stage": "3",
+    "package": 6,
+    "individual": 1,
+    "sku": "HP-NL-3",
+    "productID": 212
+  },
+  "HP-AR": {
+    "brand": "HiPP German",
+    "stage": "AR",
+    "package": 4,
+    "individual": 1,
+    "sku": "HP-AR",
+    "productID": 235
+  },
+  "HP-DE-COM": {
+    "brand": "HiPP German",
+    "stage": "Comfort",
+    "package": 4,
+    "individual": 1,
+    "sku": "HP-DE-COM",
+    "productID": 281
+  },
+  "HP-DE-PRE": {
+    "brand": "HiPP German",
+    "stage": "PRE",
+    "package": 4,
+    "individual": 1,
+    "sku": "HP-DE-PRE",
+    "productID": 95
+  },
+  "HP-DE-HA-PRE": {
+    "brand": "HiPP German HA",
+    "stage": "PRE",
+    "package": 4,
+    "individual": 1,
+    "sku": "HP-DE-HA-PRE",
+    "productID": 207
+  },
+  "HP-DE-HA-1": {
+    "brand": "HiPP German HA",
+    "stage": "1",
+    "package": 4,
+    "individual": 1,
+    "sku": "HP-DE-HA-1",
+    "productID": 111
+  },
+  "HP-DE-1": {
+    "brand": "HiPP German",
+    "stage": "1",
+    "package": 6,
+    "individual": 1,
+    "sku": "HP-DE-1",
+    "productID": 76
+  },
+  "HP-DE-4": {
+    "brand": "HiPP German",
+    "stage": "1+",
+    "package": 4,
+    "individual": 1,
+    "sku": "HP-DE-4",
+    "productID": 97
+  },
+  "HP-DE-2": {
+    "brand": "HiPP German",
+    "stage": "2",
+    "package": 4,
+    "individual": 1,
+    "sku": "HP-DE-2",
+    "productID": 78
+  },
+  "HP-DE-2-NS": {
+    "brand": "HiPP German",
+    "stage": "2 - No Starch",
+    "package": 4,
+    "individual": 1,
+    "sku": "HP-DE-2-NS",
+    "productID": 353
+  },
+  "HP-DE-HA-2": {
+    "brand": "HiPP German HA",
+    "stage": "2",
+    "package": 4,
+    "individual": 1,
+    "sku": "HP-DE-HA-2",
+    "productID": 129
+  },
+  "HP-DE-3": {
+    "brand": "HiPP German",
+    "stage": "3",
+    "package": 4,
+    "individual": 1,
+    "sku": "HP-DE-3",
+    "productID": 79
+  },
+  "HP-UK-1": {
+    "brand": "HiPP UK",
+    "stage": "1",
+    "package": 4,
+    "individual": 1,
+    "sku": "HP-UK-1",
+    "productID": 103
+  },
+  "HP-UK-2": {
+    "brand": "HiPP UK",
+    "stage": "2",
+    "package": 4,
+    "individual": 1,
+    "sku": "HP-UK-2",
+    "productID": 102
+  },
+  "HP-UK-3": {
+    "brand": "HiPP UK",
+    "stage": "3",
+    "package": 4,
+    "individual": 1,
+    "sku": "HP-UK-3",
+    "productID": 113
+  },
+  "HC-PRE": {
+    "brand": "Holle Cow",
+    "stage": "PRE",
+    "package": 6,
+    "individual": 1,
+    "sku": "HC-PRE",
+    "productID": 369
+  },
+  "HC-1": {
+    "brand": "Holle Cow",
+    "stage": "1",
+    "package": 6,
+    "individual": 1,
+    "sku": "HC-1",
+    "productID": 77
+  },
+  "HC-2": {
+    "brand": "Holle Cow",
+    "stage": "2",
+    "package": 3,
+    "individual": 1,
+    "sku": "HC-2",
+    "productID": 80
+  },
+  "HC-3": {
+    "brand": "Holle Cow",
+    "stage": "3",
+    "package": 4,
+    "individual": 1,
+    "sku": "HC-3",
+    "productID": 81
+  },
+  "HC-4": {
+    "brand": "Holle Cow",
+    "stage": "4",
+    "package": 4,
+    "individual": 1,
+    "sku": "HC-4",
+    "productID": 108
+  },
+  "HG-1": {
+    "brand": "Holle Goat",
+    "stage": "1",
+    "package": 4,
+    "individual": 1,
+    "sku": "HG-1",
+    "productID": 101
+  },
+  "HG-2": {
+    "brand": "Holle Goat",
+    "stage": "2",
+    "package": 4,
+    "individual": 1,
+    "sku": "HG-2",
+    "productID": 82
+  },
+  "HG-3": {
+    "brand": "Holle Goat",
+    "stage": "3",
+    "package": 4,
+    "individual": 1,
+    "sku": "HG-3",
+    "productID": 172
+  },
+  "87": {
+    "brand": "Holle Cereal",
+    "stage": "3-KORN",
+    "package": 6,
+    "individual": 1,
+    "sku": "87",
+    "productID": 87
+  },
+  "276": {
+    "brand": "Holle Cereal",
+    "stage": "Kurbis",
+    "package": 6,
+    "individual": 1,
+    "sku": "276",
+    "productID": 276
+  },
+  "133": {
+    "brand": "Holle Cereal",
+    "stage": "Griess Banane",
+    "package": 3,
+    "individual": 1,
+    "sku": "133",
+    "productID": 133
+  },
+  "LB-1": {
+    "brand": "Lebenswert",
+    "stage": "1",
+    "package": 5,
+    "individual": 1,
+    "sku": "LB-1",
+    "productID": 86
+  },
+  "LB-2": {
+    "brand": "Lebenswert",
+    "stage": "2",
+    "package": 5,
+    "individual": 1,
+    "sku": "LB-2",
+    "productID": 84
+  },
+  "LB-3": {
+    "brand": "Lebenswert",
+    "stage": "3",
+    "package": 5,
+    "individual": 1,
+    "sku": "LB-3",
+    "productID": 85
+  },
+  "NC-1": {
+    "brand": "NANNYCare",
+    "stage": "1",
+    "package": 6,
+    "individual": 1,
+    "sku": "NC-1",
+    "productID": 122
+  },
+  "NC-2": {
+    "brand": "NANNYCare",
+    "stage": "2",
+    "package": 6,
+    "individual": 1,
+    "sku": "NC-2",
+    "productID": 123
+  },
+  "NC-3": {
+    "brand": "NANNYCare",
+    "stage": "3",
+    "package": 6,
+    "individual": 1,
+    "sku": "NC-3",
+    "productID": 124
+  },
+  "TPFR-1": {
+    "brand": "Topfer",
+    "stage": "1",
+    "package": 6,
+    "individual": 1,
+    "sku": "TPFR-1",
+    "productID": 252
+  },
+  "TPFR-2": {
+    "brand": "Topfer",
+    "stage": "3",
+    "package": 6,
+    "individual": 1,
+    "sku": "TPFR-2",
+    "productID": 253
+  },
+  "TPFR-3": {
+    "brand": "Topfer",
+    "stage": "3",
+    "package": 6,
+    "individual": 1,
+    "sku": "TPFR-3",
+    "productID": 254
+  },
+  "TPFR-4": {
+    "brand": "Topfer",
+    "stage": "4",
+    "package": 6,
+    "individual": 1,
+    "sku": "TPFR-4",
+    "productID": 256
+  },
+  "TPFR-HA-PRE": {
+    "brand": "Topfer HA",
+    "stage": "PRE",
+    "package": 6,
+    "individual": 1,
+    "sku": "TPFR-4",
+    "productID": 396
+  },
+  "TPFR-HA-1": {
+    "brand": "Topfer HA",
+    "stage": "1",
+    "package": 6,
+    "individual": 1,
+    "sku": "TPFR-HA-1",
+    "productID": 695
+  },
+
+  "HP-PL-HA-1": {
+    "brand": "Polish HA",
+    "stage": "1",
+    "package": 4,
+    "individual": 1,
+    "sku": "HP-PL-HA-1",
+    "productID": 782
+  },
+  "6-HP-DE-PRE-PRMX-BTL": {
+    "brand": "Premix HiPP",
+    "stage": "PRE",
+    "package": 5,
+    "individual": 1,
+    "sku": "6-HP-DE-PRE-PRMX-BTL",
+    "productID": 707
+  },
+  "6-HP-UK-1-PRMX-BTL": {
+    "brand": "Premix HiPP",
+    "stage": "1",
+    "package": 5,
+    "individual": 1,
+    "sku": "6-HP-UK-1-PRMX-BTL",
+    "productID": 708
+  },
+  "6-HP-HA-PRE-PRMX-BTL": {
+    "brand": "Premix HiPP HA",
+    "stage": "PRE",
+    "package": 5,
+    "individual": 1,
+    "sku": "6-HP-HA-PRE-PRMX-BTL",
+    "productID": 780
+  },
+  "OB-HP-NL-1": {
+    "brand": "Open/Broken HiPP Dutch",
+    "stage": "1",
+    "package": 6,
+    "individual": 1,
+    "sku": "OB-HP-NL-1",
+    "productID": 173
+  },
+  "OB-HP-NL-2": {
+    "brand": "Open/Broken HiPP Dutch",
+    "stage": "2",
+    "package": 6,
+    "individual": 1,
+    "sku": "OB-HP-NL-2",
+    "productID": 213
+  },
+  "OB-HP-NL-3": {
+    "brand": "Open/Broken HiPP Dutch",
+    "stage": "3",
+    "package": 6,
+    "individual": 1,
+    "sku": "OB-HP-NL-3",
+    "productID": 212
+  },
+  "OB-HP-AR": {
+    "brand": "Open/Broken HiPP German",
+    "stage": "AR",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HP-AR",
+    "productID": 576
+  },
+  "OB-HP-DE-COM": {
+    "brand": "Open/Broken HiPP German",
+    "stage": "Comfort",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HP-DE-COM",
+    "productID": 411
+  },
+  "OB-HP-DE-PRE": {
+    "brand": "Open/Broken HiPP German",
+    "stage": "PRE",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HP-DE-PRE",
+    "productID": 136
+  },
+  "OB-HP-DE-HA-PRE": {
+    "brand": "Open/Broken HiPP German HA",
+    "stage": "PRE",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HP-DE-HA-PRE",
+    "productID": 270
+  },
+  "OB-HP-DE-HA-1": {
+    "brand": "Open/Broken HiPP German HA",
+    "stage": "1",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HP-DE-HA-1",
+    "productID": 269
+  },
+  "OB-HP-DE-1": {
+    "brand": "Open/Broken HiPP German",
+    "stage": "1",
+    "package": 6,
+    "individual": 1,
+    "sku": "OB-HP-DE-1",
+    "productID": 135
+  },
+  "OB-HP-DE-4": {
+    "brand": "Open/Broken HiPP German",
+    "stage": "1+",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HP-DE-4",
+    "productID": 317
+  },
+  "OB-HP-DE-2": {
+    "brand": "Open/Broken HiPP German",
+    "stage": "2",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HP-DE-2",
+    "productID": 134
+  },
+  "OB-HP-DE-2-NS": {
+    "brand": "Open/Broken HiPP German",
+    "stage": "2 - No Starch",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HP-DE-2-NS",
+    "productID": 577
+  },
+  "OB-HP-DE-HA-2": {
+    "brand": "Open/Broken HiPP German HA",
+    "stage": "2",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HP-DE-HA-2",
+    "productID": 268
+  },
+  "OB-HP-DE-3": {
+    "brand": "Open/Broken HiPP German",
+    "stage": "3",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HP-DE-3",
+    "productID": 206
+  },
+  "OB-HP-UK-1": {
+    "brand": "Open/Broken HiPP UK",
+    "stage": "1",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HP-UK-1",
+    "productID": 318
+  },
+  "OB-HP-UK-2": {
+    "brand": "Open/Broken HiPP UK",
+    "stage": "2",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HP-UK-2",
+    "productID": 320
+  },
+  "OB-HP-UK-3": {
+    "brand": "Open/Broken HiPP UK",
+    "stage": "3",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HP-UK-3",
+    "productID": 409
+  },
+  "OB-HC-PRE": {
+    "brand": "Open/Broken Holle Cow",
+    "stage": "PRE",
+    "package": 6,
+    "individual": 1,
+    "sku": "OB-HC-PRE",
+    "productID": 403
+  },
+  "OB-HC-1": {
+    "brand": "Open/Broken Holle Cow",
+    "stage": "1",
+    "package": 6,
+    "individual": 1,
+    "sku": "OB-HC-1",
+    "productID": 118
+  },
+  "OB-HC-2": {
+    "brand": "Open/Broken Holle Cow",
+    "stage": "2",
+    "package": 3,
+    "individual": 1,
+    "sku": "OB-HC-2",
+    "productID": 119
+  },
+  "OB-HC-3": {
+    "brand": "Open/Broken Holle Cow",
+    "stage": "3",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HC-3",
+    "productID": 174
+  },
+  "OB-HC-4": {
+    "brand": "Open/Broken Holle Cow",
+    "stage": "4",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HC-4",
+    "productID": 128
+  },
+  "OB-HG-1": {
+    "brand": "Open/Broken Holle Goat",
+    "stage": "1",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HG-1",
+    "productID": 204
+  },
+  "OB-HG-2": {
+    "brand": "Open/Broken Holle Goat",
+    "stage": "2",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HG-2",
+    "productID": 159
+  },
+  "OB-HG-3": {
+    "brand": "Open/Broken Holle Goat",
+    "stage": "3",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HG-3",
+    "productID": 205
+  },
+  "OB-LB-1": {
+    "brand": "Open/Broken Lebenswert",
+    "stage": "1",
+    "package": 5,
+    "individual": 1,
+    "sku": "OB-LB-1",
+    "productID": 157
+  },
+  "OB-LB-2": {
+    "brand": "Open/Broken Lebenswert",
+    "stage": "2",
+    "package": 5,
+    "individual": 1,
+    "sku": "OB-LB-2",
+    "productID": 156
+  },
+  "OB-LB-3": {
+    "brand": "Open/Broken Lebenswert",
+    "stage": "3",
+    "package": 5,
+    "individual": 1,
+    "sku": "OB-LB-3",
+    "productID": 158
+  },
+  "OB-NC-1": {
+    "brand": "Open/Broken NANNYCare",
+    "stage": "1",
+    "package": 6,
+    "individual": 1,
+    "sku": "OB-NC-1",
+    "productID": 352
+  },
+  "OB-NC-2": {
+    "brand": "Open/Broken NANNYCare",
+    "stage": "2",
+    "package": 6,
+    "individual": 1,
+    "sku": "OB-NC-2",
+    "productID": 354
+  },
+  "OB-NC-3": {
+    "brand": "Open/Broken NANNYCare",
+    "stage": "3",
+    "package": 6,
+    "individual": 1,
+    "sku": "OB-NC-3",
+    "productID": 408
+  },
+  "OB-TPFR-1": {
+    "brand": "Open/Broken Topfer",
+    "stage": "1",
+    "package": 6,
+    "individual": 1,
+    "sku": "OB-TPFR-1",
+    "productID": 322
+  },
+  "OB-TPFR-2": {
+    "brand": "Open/Broken Topfer",
+    "stage": "3",
+    "package": 6,
+    "individual": 1,
+    "sku": "OB-TPFR-2",
+    "productID": 323
+  },
+  "OB-TPFR-3": {
+    "brand": "Open/Broken Topfer",
+    "stage": "3",
+    "package": 6,
+    "individual": 1,
+    "sku": "OB-TPFR-3",
+    "productID": 366
+  },
+  "OB-TPFR-4": {
+    "brand": "Open/Broken Topfer",
+    "stage": "4",
+    "package": 6,
+    "individual": 1,
+    "sku": "OB-TPFR-4",
+    "productID": 324
+  },
+  "OB-TPFR-HA-PRE": {
+    "brand": "Open/Broken Topfer HA",
+    "stage": "PRE",
+    "package": 6,
+    "individual": 1,
+    "sku": "OB-TPFR-4",
+    "productID": 325
+  },
+  "OB-TPFR-HA-1": {
+    "brand": "Open/Broken Topfer HA",
+    "stage": "1",
+    "package": 6,
+    "individual": 1,
+    "sku": "OB-TPFR-HA-1",
+    "productID": 695
+  },
+  "OB-HP-PL-HA-1": {
+    "brand": "Open/Broken Polish HA",
+    "stage": "1",
+    "package": 4,
+    "individual": 1,
+    "sku": "OB-HP-PL-HA-1",
+    "productID": 782
+  }
+}

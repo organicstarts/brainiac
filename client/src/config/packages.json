@@ -1,0 +1,65 @@
+
+  {
+    "stamps_com": {
+      "package": {
+        "NAME": "BOX"
+      },
+      "flat_rate_envelope": {
+        "NAME": "ENV"
+      },
+      "flat_rate_legal_envelope": {
+        "NAME": "ENV"
+      },
+      "flat_rate_padded_envelope": {
+        "NAME": "ENV"
+      },
+      "large_envelope_or_flat": {
+        "NAME": "ENV"
+      },
+      "large_flat_rate_box": {
+        "NAME": "LG FR"
+      },
+      "large_package": {
+        "NAME": "BIG BOX"
+      },
+      "letter": {
+        "NAME": "LTR"
+      },
+      "medium_flat_rate_box": {
+        "NAME": "MD FR"
+      },
+      "regional_rate_box_a": {
+        "NAME": "RRA"
+      },
+      "regional_rate_box_b": {
+        "NAME": "RRB"
+      },
+      "small_flat_rate_box": {
+        "NAME": "SM FR"
+      },
+      "thick_envelope": {
+        "NAME": "ENV"
+      }
+    },
+    "fedex": {
+      "package": {
+        "NAME": "BOX"
+      },
+      "fedex_envelope_onerate": {
+        "NAME": "OR ENV"
+      },
+      "fedex_extra_large_box_onerate": {
+        "NAME": "OR LG"
+      },
+      "fedex_medium_box_onerate": {
+        "NAME": "OR MD"
+      },
+      "fedex_pak_onerate": {
+        "NAME": "OR PAK"
+      },
+      "fedex_small_box_onerate": {
+        "NAME": "OR SM"
+      }
+    }
+  }
+
